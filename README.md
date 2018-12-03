@@ -14,31 +14,31 @@
 ## 23个设计模式  
 
 ### 1.[单例模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/singleton)  
-![Alt text](src/dp/com/company/a1_singleton/singleton.gif "单例模式")
+![Alt text](src/dp/com/company/a01_singleton/singleton.gif "单例模式")
 
 ### 2.[工厂模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/factorys)  
-![Alt text](src/dp/com/company/a2_factorys/factorys.jpg "工厂模式类图")
+![Alt text](src/dp/com/company/a02_factorys/factorys.jpg "工厂模式类图")
 
 ### 3.[抽象工厂模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/factorya)   
-![Alt text](src/dp/com/company/a3_factorya/factorya.jpg "抽象工厂模式类图")
+![Alt text](src/dp/com/company/a03_factorya/factorya.jpg "抽象工厂模式类图")
 
 ### 4.[模板模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/template_method)  
-![Alt text](src/dp/com/company/a4_template_method/template.jpg "模板模式类图")
+![Alt text](src/dp/com/company/a04_template_method/template.jpg "模板模式类图")
 
 ### 5.[建造者模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/builder)  
-![Alt text](src/dp/com/company/a5_builder/builder.jpg "建造者模式类图")
+![Alt text](src/dp/com/company/a05_builder/builder.jpg "建造者模式类图")
 
 ### 6.[代理模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/proxy)  
-![Alt text](src/dp/com/company/a6_proxy/proxy.jpg "代理模式类图")
+![Alt text](src/dp/com/company/a06_proxy/proxy.jpg "代理模式类图")
 
 ### 7.[原型模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/prototype)  
-![Alt text](src/dp/com/company/a7_prototype/prototype.gif "原型模式类图")
+![Alt text](src/dp/com/company/a07_prototype/prototype.gif "原型模式类图")
 
 ### 8.[中介模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/mediator)  
-![Alt text](src/dp/com/company/a8_mediator/mediator.jpg "中介模式类图")
+![Alt text](src/dp/com/company/a08_mediator/mediator.jpg "中介模式类图")
 
 ### 9.[命令模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/command)  
-![Alt text](src/dp/com/company/a9_command/command.jpg "命令模式类图")
+![Alt text](src/dp/com/company/a09_command/command.jpg "命令模式类图")
 
 ### 10.[责任链模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/chain_of_responsibility)  
 ![Alt text](src/dp/com/company/a10_chain_of_responsibility/chainofresponsibility.jpg "责任链模式类图")
