@@ -1,4 +1,4 @@
-package com.company.创建型模式.a05_建造者_builder.section1;
+package com.company.创建型模式.a05_建造者_builder.section1_就是模板模式;
 
 /**
  * @author cbf4Life cbf4life@126.com
