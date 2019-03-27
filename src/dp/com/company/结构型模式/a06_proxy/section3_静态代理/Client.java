@@ -1,4 +1,4 @@
-package com.company.结构型模式.a06_proxy.section3;
+package com.company.结构型模式.a06_proxy.section3_静态代理;
 
 /**
  * @author cbf4Life cbf4life@126.com
