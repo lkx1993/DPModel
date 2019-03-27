@@ -1,0 +1,13 @@
+package com.company.行为型模式.a12_strategy.section2;
+
+/**
+ * @author cbf4Life cbf4life@126.com
+ * I'm glad to share my knowledge with you all.
+ */
+public class ConcreteStrategy2 implements Strategy {
+
+	public void doSomething() {
+		System.out.println("具体策略2的运算法则");
+	}
+
+}
